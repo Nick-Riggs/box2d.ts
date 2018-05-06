@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "es6",
-    "module": "system",
+    "module": "commonjs",
     "preserveConstEnums": true,
     "noImplicitAny": true,
     "noImplicitReturns": true,
